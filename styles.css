@@ -156,6 +156,10 @@ body{
     padding: 60px 15px;
     height: auto;
   }
+  .welcome-text{
+    top: 30%;
+    transform: translateY(-10%);
+  }
 
   #welcome-section h1 {
     font-size: 2rem;
@@ -277,3 +281,4 @@ body{
     padding: 8px 10px;
   }
 }
+
