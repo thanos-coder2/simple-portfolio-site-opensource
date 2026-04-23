@@ -33,9 +33,7 @@ Footer
 Social links
 Add your own projects, images, and information
 Deploy your portfolio online.
-🌍 Live Demo
-
-🔗 https://simple-portfolio-opensource.netlify.app
+🌍 Live Demo🔗:  https://simple-portfolio-opensource.netlify.app
 
 License
 
