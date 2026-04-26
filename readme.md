@@ -23,7 +23,7 @@ Example structure:
 simple-portfolio-site-opensource/
 │
 ├── index.html
-├── style.css
+├── styles.css
 └── README.md
 
 🚀 How to Use
