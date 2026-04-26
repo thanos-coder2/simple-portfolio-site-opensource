@@ -1,4 +1,7 @@
 🌐 Simple Web Portfolio Template
+![Screenshot](photos/home-page.png)
+![Screenshot](photos/projects-section.png)
+![Screenshot](photos/footer-secton.png)
 
 A clean and lightweight portfolio template built with HTML and CSS, designed for developers who want a simple and professional way to present their projects online.
 
